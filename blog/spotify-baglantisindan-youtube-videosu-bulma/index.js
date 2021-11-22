@@ -2,8 +2,8 @@ const SpotifyWebApi = require("spotify-web-api-node");
 const SpotifyToYouTube = require("spotify-to-youtube");
 
 // Panelden alınan bilgileri değişkenlere ata
-const clientId = "863ee61cc6d04c3280cb42255511da48";
-const clientSecret = "e249928bd5ad47e194f7097f201e32f1";
+const clientId = "838383u288l12an898213eg8829gsy22";
+const clientSecret = "n2234e19239ad23189am237283sın333";
 
 // Yeni bir SpotifyWebApi örneği (instance) oluştur
 const spotifyApi = new SpotifyWebApi({
